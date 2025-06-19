@@ -1,4 +1,4 @@
-# Weather App with Next JS, React, Tanstack Query, Shadcn UI, Recharts, Tailwind, Typescript Tutorial 🔥🔥
+# Weather App with Next JS, React, Tanstack Query, Shadcn UI, Recharts, Tailwind.
 
 ### Make sure to create a `.env` file with following variables -
 https://weather-webapp-pqf7.onrender.com
